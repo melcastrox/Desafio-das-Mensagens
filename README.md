@@ -28,14 +28,14 @@ Reproduzir uma saída de texto exatamente como a imagem do desafio, utilizando a
 * Um
 ````
 ---
-##🧠 Aprendizados
+## 🧠 Aprendizados
 - Diferença entre &lt;p&gt; e &lt;br&gt;
 - Importância da indentação e organização;
 - Como criar visualizações em HTML puro sem CSS.
 - Como criar visualizações em HTML puro sem CSS.
 
 ---
-##📚 Créditos
+## 📚 Créditos
 Curso em Vídeo - HTML5 e CSS3 - Professor Gustavo Guanabara
 🔗 [Curso de HTML5 e CSS3 - Módulo 1 (Curso em Vídeo)](https://www.cursoemvideo.com/curso/html5-css3-modulo1-vip/)
 
