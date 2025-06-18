@@ -27,6 +27,7 @@ Reproduzir uma saída de texto exatamente como a imagem do desafio, utilizando a
 ** Dois  
 * Um
 ````
+---
 ##🧠 Aprendizados
 - Diferença entre &lt;p&gt; e &lt;br&gt;
 - Importância da indentação e organização;
