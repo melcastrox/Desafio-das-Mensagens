@@ -28,9 +28,10 @@ Reproduzir uma saída de texto exatamente como a imagem do desafio, utilizando a
 * Um
 ````
 🧠 Aprendizados
-Diferença entre <p> e <br>;
+- Diferença entre <p> e <br>;
+- Importância da indentação e organização;
+- Como criar visualizações em HTML puro sem CSS.
 
-Importância da indentação e organização;
 
 Como criar visualizações em HTML puro sem CSS.
 
