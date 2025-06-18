@@ -36,7 +36,7 @@ Reproduzir uma saída de texto exatamente como a imagem do desafio, utilizando a
 
 ---
 ## 📚 Créditos
-Curso em Vídeo - HTML5 e CSS3 - Professor Gustavo Guanabara
+Curso em Vídeo - HTML5 e CSS3 - Professor Gustavo Guanabara <br>
 🔗 [Curso de HTML5 e CSS3 - Módulo 1 (Curso em Vídeo)](https://www.cursoemvideo.com/curso/html5-css3-modulo1-vip/)
 
 ---
