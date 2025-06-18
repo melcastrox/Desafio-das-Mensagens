@@ -31,9 +31,7 @@ Reproduzir uma saída de texto exatamente como a imagem do desafio, utilizando a
 - Diferença entre &lt;p&gt; e &lt;br&gt;
 - Importância da indentação e organização;
 - Como criar visualizações em HTML puro sem CSS.
-
-
-Como criar visualizações em HTML puro sem CSS.
+- Como criar visualizações em HTML puro sem CSS.
 
 📚 Créditos
 Curso em Vídeo - HTML5 e CSS3 - Professor Gustavo Guanabara
